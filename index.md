@@ -4,7 +4,7 @@
 
 ### Salida de la Oscuridad
 
-[![Salida de la Oscuridad](./2021/img/01/original.JPG){:height="746px" width="1012px"}](./2021/01-salida-de-la-oscuridad)
+[![Salida de la Oscuridad](./2021/img/01beta/Salida.JPG)](./2021/01-salida-de-la-oscuridad)
 
 ### Family
 
