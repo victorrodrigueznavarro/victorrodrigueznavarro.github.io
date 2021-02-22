@@ -22,6 +22,10 @@
 
 [![Aleph](./2021/img/05/Aleph.jpg)](./2021/5)
 
-### Aleph
+### Aqui
 
-[![Aleph](./2021/img/06/Aleph.jpg)](./2021/6)
+[![Aqui](./2021/img/06/Aqui.jpg)](./2021/6)
+
+### MDMA
+
+[![MDMA](./2021/img/06/MDMA.jpg)](./2021/7)
