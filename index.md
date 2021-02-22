@@ -8,20 +8,20 @@
 
 ### Family
 
-[![Family](./2021/img/02/Family.jpg){:height="652px" width="1012px"}](./2021/02-family)
+[![Family](./2021/img/02/Family.jpg)](./2021/02-family)
 
 ### Infinito
 
-[![Infinito](./2021/img/03/Infinito.jpg){:height="721px" width="1012px"}](./2021/3)
+[![Infinito](./2021/img/03/Infinito.jpg)](./2021/3)
 
 ### Dualismo
 
-[![Dualismo](./2021/img/04/Dualismo.jpg){:height="508px" width="1012px"}](./2021/4)
+[![Dualismo](./2021/img/04/Dualismo.jpg)](./2021/4)
 
 ### Aleph
 
-[![Aleph](./2021/img/05/Aleph.jpg){:height="1261px" width="1012px"}](./2021/5)
+[![Aleph](./2021/img/05/Aleph.jpg)](./2021/5)
 
 ### Aleph
 
-[![Aleph](./2021/img/06/Aleph.jpg){:height="1261px" width="1012px"}](./2021/6)
+[![Aleph](./2021/img/06/Aleph.jpg)](./2021/6)
