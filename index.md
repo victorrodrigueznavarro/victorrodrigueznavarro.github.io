@@ -1,6 +1,6 @@
 # Víctor Rodriguez Navarro
 
-## Art Portfolio
+## Portfolio
 
 ### Salida de la Oscuridad
 
