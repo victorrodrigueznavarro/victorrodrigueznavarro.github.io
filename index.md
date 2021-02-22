@@ -14,3 +14,6 @@
 
 [![Infinito](./2021/img/03/Infinito.jpg){:height="721px" width="1012px"}](./2021/03)
 
+### Dualismo
+
+[![Dualismo](./2021/img/03/Infinito.jpg){:height="721px" width="1012px"}](./2021/03)
