@@ -28,4 +28,12 @@
 
 ### MDMA
 
-[![MDMA](./2021/img/06/MDMA.jpg)](./2021/7)
+[![MDMA](./2021/img/07/MDMA.jpg)](./2021/7)
+
+### Hass
+
+[![Hass](./2021/img/08/Hass.jpg)](./2021/8)
+
+### Negro y Blanco
+
+[![NYB](./2021/img/09/Black.jpg)](./2021/9)
