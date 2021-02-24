@@ -14,7 +14,7 @@
 ![](./img/01/explosion.jpg)
 
 - A partir de ahí, se representa una explosión, esta manifiesta la angustia (Angst) —de lo que es para Heidegger. Ver "Ser y Tiempo" de Martin Heidegger.
-- De esa explosión, después de resurgir de las cenizas, sale un ángel alado que pretende ser libre y quiere ir hacia libertad ó vida propia (Ver Ser y Tiempo), (son los destellos blancos en dirección diagonal al cuadro).
+- De esa explosión, después de resurgir de las cenizas, sale un ángel alado que pretende ser libre y quiere ir hacia la libertad o vida propia (Ver Ser y Tiempo), representada por los destellos blancos en dirección diagonal al cuadro.
 - Pero para ser libre, se tiene que enfrentar al lobo sentado de rodillas, esperándolo, es decir, la tentación de la vida im-propia.
 - "Te has de enfrentar a la angustia para tener una vida propia."
 - El lobo —sentado en una montaña— podría relacionarse con la firmeza del sabio de Séneca: vas a recibir ultrajes pero dependerá de ti ser dañado o dolido por él.
