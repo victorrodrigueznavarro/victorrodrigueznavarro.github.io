@@ -2,7 +2,7 @@
 
 ![](./img/01/original.JPG)
 
-- Representa la depresión que vió el autor en 2020.
+- Representa la depresión que vivioó el autor en 2020.
 
 ![](./img/01/ceniza.jpg)
 
