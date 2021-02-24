@@ -6,7 +6,7 @@
 
 ![](./img/01/ceniza.jpg)
 
-- La línea de abajo representa las cenizas, teniendo en cuenta la mitología griega del Ave Fénix (Bennu para la mitología egipcia).
+- La línea blanca de abajo representa las cenizas, teniendo en cuenta la mitología griega del Ave Fénix (Bennu para la mitología egipcia).
 - El Ave Fénix tiene sus representaciones en diferentes culturas, como la china (el Fêng-Huang), la japonesa (el Ho-oo), la rusa ( El Pájaro de Fuego , que inmortalizara musicalmente Stravinsky), la Egipcia (el Benu), la hindú (el Garuda), e incluso en los indios de norteamérica (el Yel), o los Aztecas, Mayas y Toltecas (el Quetzal). Fue citado por primera vez por Hesíodo en el siglo VIII A.C. y más tarde y con más detalle por el historiador Herodoto.
 - El Ave renace de sus cenizas, representando; como indicó Carl Gustav Jung, fundador de la psicología analítica, que son “Símbolos de transformación” entre lo antiguo y lo nuevo, además de demostrar la capacidad para adaptarnos a las adversidades y ser mejores tras un momento traumático.
 - Encima de las cenizas hay una explosión de color donde se combinan todos los colores del cuadro.
