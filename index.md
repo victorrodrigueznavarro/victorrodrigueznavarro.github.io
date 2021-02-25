@@ -1,4 +1,4 @@
-# Víctor Rodriguez Navarro - Portfolio
+# Víctor Rodriguez Navarro
 
 ## Works
 
