@@ -24,4 +24,4 @@
 
 - Como representación del dualismo, las dos religiones con más seguidores del mundo son el cristianismo y el islam, representados por una cruz (a la izquierda) y por una media luna (a la derecha).
 
-![Volver](./blob/main/index.md)
+[![Volver](./img/01/original.JPG)](./index.md)
