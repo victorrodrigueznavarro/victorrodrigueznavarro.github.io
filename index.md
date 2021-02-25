@@ -1,8 +1,7 @@
-# Víctor Rodriguez Navarro
+# Víctor Rodríguez Navarro
 
 ## Works
 
-<br />
 ### Salida de la Oscuridad
 
 [![Salida de la Oscuridad](./2021/img/01beta/Salida.jpg)](./2021/01-salida-de-la-oscuridad)
