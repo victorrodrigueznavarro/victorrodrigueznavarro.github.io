@@ -45,3 +45,8 @@
 ### Negro y Blanco
 
 [![NYB](./2021/img/09/Black.jpg)](./2021/9)
+
+<br />
+### Ocaso
+
+[![NYB](./2021/img/10/Ocaso.jpg)](./2021/10)
