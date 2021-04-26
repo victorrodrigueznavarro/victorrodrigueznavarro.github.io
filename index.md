@@ -84,4 +84,4 @@
 <br />
 ### Magic World
 
-[![NYB](./2021/img/17/World.jpg)](./2021/17)
+[![NYB](./2021/img/17/Mundo.jpg)](./2021/17)
