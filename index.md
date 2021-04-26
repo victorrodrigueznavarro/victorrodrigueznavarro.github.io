@@ -50,3 +50,33 @@
 ### Ocaso
 
 [![NYB](./2021/img/10/Ocaso.jpg)](./2021/10)
+
+<br />
+### "Tus Muertos"
+
+[![NYB](./2021/img/11/Muertos.jpg)](./2021/11)
+
+<br />
+### Azul
+
+[![NYB](./2021/img/12/Blue.jpg)](./2021/12)
+
+<br />
+### Verde Luna
+
+[![NYB](./2021/img/13/Green.jpg)](./2021/13)
+
+<br />
+### Cruz
+
+[![NYB](./2021/img/14/Cruz.jpg)](./2021/14)
+
+<br />
+### Tree
+
+[![NYB](./2021/img/15/Tree.jpg)](./2021/15)
+
+<br />
+### Tree
+
+[![NYB](./2021/img/16/Bless.jpg)](./2021/16)
