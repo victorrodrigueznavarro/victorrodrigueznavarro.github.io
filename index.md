@@ -80,3 +80,8 @@
 ### Tree
 
 [![NYB](./2021/img/16/Bless.jpg)](./2021/16)
+
+<br />
+### Magic World
+
+[![NYB](./2021/img/17/World.jpg)](./2021/17)
