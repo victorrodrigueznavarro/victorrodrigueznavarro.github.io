@@ -77,7 +77,7 @@
 [![NYB](./2021/img/15/Tree.jpg)](./2021/15)
 
 <br />
-### Tree
+### Bless Purify Unknown
 
 [![NYB](./2021/img/16/Bless.jpg)](./2021/16)
 
@@ -85,3 +85,8 @@
 ### Magic World
 
 [![NYB](./2021/img/17/Mundo.jpg)](./2021/17)
+
+<br />
+### Mort et Vie
+
+[![NYB](./2021/img/18/Mort.jpg)](./2021/18)
