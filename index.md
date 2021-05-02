@@ -89,4 +89,4 @@
 <br />
 ### Mort et Vie
 
-[![NYB](./2021/img/18/Mort.jpg)](./2021/18)
+[![NYB](./2021/img/18/Mort.jpeg)](./2021/18)
