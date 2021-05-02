@@ -86,7 +86,3 @@
 
 [![NYB](./2021/img/17/Mundo.jpg)](./2021/17)
 
-<br />
-### Mort et Vie
-
-[![NYB](./2021/img/18/Mort.jpg)](./2021/18)
